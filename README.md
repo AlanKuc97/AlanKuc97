@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AlanKuc97
+- 👀 I’m interested in ... programming
+- 🌱 I’m currently learning ... Phaser3
+- 📫 How to reach me ... alankuchinskij@gmail.com
